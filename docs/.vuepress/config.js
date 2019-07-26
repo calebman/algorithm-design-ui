@@ -2,6 +2,7 @@ module.exports = {
   title: '算法动画设计UI库',
   description: '用于直观描述各种算法运行流程的UI组件库',
   head: [['link', { rel: 'icon', href: 'https://www.npmjs.com/package/algorithm-design-ui' }]],
+  base: '/algorithm-design-ui/',
   port: '9090',
   docsDir: 'docs',
   siteConfig: {
